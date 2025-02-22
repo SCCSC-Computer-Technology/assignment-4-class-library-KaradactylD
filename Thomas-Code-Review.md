@@ -1,1 +1,1 @@
-The code in the class library is well-documented. There are no flaws in the code, as it is just an entity class to store data.
+The code in the class library is well-documented. The only flaw in the code is that the parameterless constructor does not initialize properties.
